@@ -12,9 +12,9 @@ export default class Header extends Component {
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
-            <p>Hi! My name is Rakhi Shah, and I am a 20 year old student. I wanted to
+            <p>Hi! My name is Rakhi Shah, and I am a 20 year old computer science student. I wanted to
               learn more about React, so I took this HTML template and converted it to React. 
-              My interests outside of computer science include golf and travel. 
+              My interests outside of computer science include golf and traveling. 
               Keep scrolling to find out more about what I have accomplished!
             </p>
             <div className="row">
